@@ -17,5 +17,5 @@ b. Sales Data
    
 Approach:  
 Worked on Data Exploratory Analysis to understand distribution and sales of different DC.   
-Merged the 2 data sets to bring meaningful results in prediction.  
+Merged the Sales Data and Vehicle Registration Data sets for meaningful results in demand prediction.  
 Used Light GBM model and predicted the demand of different types of tires for each DC. 
