@@ -5,7 +5,7 @@ Problem Statement:
 American Tire Distributors (ATD) relies on intelligent strategies on inventory planning and demand prediction, so that they can smartly stock items at each DC and ensure they meet customers’ needs. For ATD, the key to satisfying this demand for replacement tires is individual distribution centers (DC) footprint. Spread across the entire U.S., each DC supports the needs of its nearby customers.
 
 Required solution:    
-Predict how many tires are in demand for each DC. Specifically, how many tires of different kinds are in demand for each DC.
+Build a machine learning model that accurately predicts units of sale for a particular distribution center for a specific tire category.  
 
 Data:    
  
